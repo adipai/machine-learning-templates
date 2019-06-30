@@ -1,3 +1,3 @@
 # Machine-learning-templates
 
-Templates of machine learning algorithms implemented in python using scikit-learn, pandas, numpy and matplotlib.
+Machine learning algorithms for regression, classification, clustering, associative learning using sckit-learn, pandas, numpy and matplotlib.
